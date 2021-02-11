@@ -1,7 +1,7 @@
 # Covid-19 Tracker
-Displays global as well as country wise list of, Confirmed, Increased, Recovered and Deceased Covid Cases using a JSON API.
+Displays global as well as the country-wise list of, Confirmed, Increased, Recovered, and Deceased Covid Cases across the globe using a JSON API.
 
----- Technologies Used ----
+---- Technologies Used ---- <br>
 => Html <br>
 => CSS <br>
 => Bootstrap <br>
